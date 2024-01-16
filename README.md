@@ -4,7 +4,7 @@
 Centralized RANSAC Based 3D Registration with Fast Convergence and High Accuracy (2023) by Kuo-Liang Chung and Wei-Tai Chang.  
 
 <div align=center>
-<img src="https://github.com/ivpml84079/C-RANSAC/blob/main/Fig/Example.png">
+<img src="https://github.com/ivpml84079/C-RANSAC/blob/master/Fig/Example.png">
 </div>
 
 The left figure is the testing point cloud "Redkitchen" selected from the [3DMATCH](https://3dmatch.cs.princeton.edu/) dataset, the green lines are inliers between the source point cloud and the target point cloud, and the red lines are outliers. The right one is the registration result using our method.
